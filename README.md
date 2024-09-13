@@ -11,7 +11,7 @@ Repositorio para armazeanr resumos sobre git e github, do curso da Dio
 ## Resumo das aulas
 | Aulas | Resumos |
 |-------|---------|
-|Gravando alterações no repositorio Local | [Resumos]() |
+|Gravando alterações no repositorio Local | [Resumo]() |
 
 ---
 git init
