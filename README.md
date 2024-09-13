@@ -11,7 +11,10 @@ Repositorio para armazeanr resumos sobre git e github, do curso da Dio
 ## Resumo das aulas
 | Aulas | Resumos |
 |-------|---------|
-|Gravando alterações no repositorio Local | [Resumo]() |
+|Gravando alterações no repositorio |
+| Aula 01 | Como utilizar o Github |
+| aula 02 | Como salvar arquivos remotos |
+| Local | [Resumo]() |
 
 ---
 git init
